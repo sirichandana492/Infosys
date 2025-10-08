@@ -12,11 +12,13 @@ To develop an AI-based gesture recognition system that allows users to control v
 ⚙️ TECHNOLOGIES USED
 
 🐍 Python
+
 📸 OpenCV — for real-time camera access and image processing
 ✋ MediaPipe — for detecting and tracking hand landmarks
 🔊 PyCaw / PyAutoGUI / OS module — for controlling system or media volume
 
 🧩 PROJECT MODULES
+
 1️⃣ Gesture Recognition
 Detects the hand using MediaPipe.
 Identifies landmarks such as fingertips and joints.
@@ -41,6 +43,7 @@ Large distance → High volume
 The bar on the screen visually represents the volume level in percentage.
 
 💡 FEATURES
+
 ✅ Real-time hand detection
 ✅ Contactless volume control
 ✅ Dynamic visual feedback
